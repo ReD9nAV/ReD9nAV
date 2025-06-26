@@ -21,22 +21,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/navadeep-reddy-sige" target="blank" style="margin-right: 10px;">
+  <a href="https://linkedin.com/in/navadeep-reddy-sige" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navadeep-reddy-sige" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/navadeepsige" target="blank" style="margin-right: 10px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/navadeepsige" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navadeepsige" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/red9nav" target="blank" style="margin-right: 10px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/red9nav" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="red9nav" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/redd9nav" target="blank" style="margin-right: 10px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/redd9nav" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="redd9nav" height="30" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://discord.gg/Hqcyv7MJ" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
