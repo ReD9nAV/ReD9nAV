@@ -21,22 +21,33 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/navadeep-reddy-sige" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navadeep-reddy-sige" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/navadeepsige" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navadeepsige" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/red9nav" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="red9nav" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/redd9nav" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="redd9nav" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.gg/Hqcyv7MJ" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
-  </a>
+  <span style="display:inline-block;margin-right:10px;">
+    <a href="https://linkedin.com/in/navadeep-reddy-sige" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+  </span>
+  <span style="display:inline-block;margin-right:10px;">
+    <a href="https://www.hackerrank.com/navadeepsige" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    </a>
+  </span>
+  <span style="display:inline-block;margin-right:10px;">
+    <a href="https://codeforces.com/profile/red9nav" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    </a>
+  </span>
+  <span style="display:inline-block;margin-right:10px;">
+    <a href="https://www.leetcode.com/redd9nav" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    </a>
+  </span>
+  <span style="display:inline-block;">
+    <a href="https://discord.gg/Hqcyv7MJ" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    </a>
+  </span>
 </p>
+
 
 
 
