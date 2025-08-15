@@ -39,7 +39,7 @@
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=red9nav12&label=Profile%20views&color=0e75b6&style=flat" alt="red9nav12" /> </p>
 
-- 🔭 I’m currently working on **RHSCA Exam**
+- 🔭 I’m currently working on **Devlopement with Django**
 
 - 🌱 I’m currently learning **Advanced Linux and System Administration**
 
